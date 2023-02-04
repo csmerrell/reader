@@ -1,5 +1,10 @@
 # Premium e-reader
-Focused on features that add immersive value to a reading experience, but also a little bit of upselling capability with better connections to related products.
+A portable, e-reader app/storefront where users can buy and read enhanced digital (premium) versions of novels. 
+
+The primary goal is to integrate features that add immersive value to a reading experience. 
+Additional concerns:
+1. Some upselling capability for authors to link their other works more intelligently (or even sell swag!).
+2. Better profit sharing with creators
 
 ## Core Features (Demo)
 1. Unlockable concept art as you read.
@@ -9,11 +14,11 @@ Focused on features that add immersive value to a reading experience, but also a
 4. Community profiles for reading.
 5. Individual author shop integration
 6. Higher profit sharing to creators.
+7. Audiobook integration.
 
 ## Other possibilities
 1. Improved annotations.
 2. Author music playlists?
-3. Audiobook integration.
 
 ## Concept Art
 1. Multiple options for how it shows.
@@ -78,3 +83,14 @@ Where other reading platforms will only let you link to your other products with
 
 ## Profit sharing
 We can add value to independent authors by giving them greater share of their profits, as the major players don't actually need the 30% (or more) cut they're taking to provide a digital storefront.
+
+## Audiobook integration
+Right now, audiobook platforms are the most predatory. If we can eventually integrate our own tiered library, we can unify a reader's library in one app that isn't constrained to a physical platform.
+
+1. Progress in an audio book can be synced to unlocked badges inside the e-book.
+    * A reader who listens in the car can check in on their unlocked, spoiler-free concept art anytime they finish their drive!
+    * Help alleviate spelling anxiety for audio book listener who don't know how anything is spelled!
+    * Reverse, we can hook in voice samples of names so people who want to know proper name pronuciations can hear them!.
+2. Audio tier can unlock the entire enhanced e-book. This should be affordable to the author's and voice actors if our profit sharing is less predatory?
+2. People who already own a book at a certain tier can upgrade for discounted prices.
+3. Users who already bought on a prior platform can still get added value here through the premium e-book's other features
