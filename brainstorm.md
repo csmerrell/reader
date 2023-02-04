@@ -29,6 +29,7 @@ Additional concerns:
         * **Heavy-weight:** - When you advance past a page that has a concept art, your first page swipe triggers a soft animation alerting you to a piece of content art that was attached to that page.
 2. A single piece can be referenced multiple times in the novel (unlike in print).
 3. Additionally, filters and animations can be used to do partial revelations of a piece of art (e.g. as multiple pieces of an artifact are recovered, putting together a puzzle.)
+4. Phone/desktop wallpapers, lockscreens, and other digital theme swag!
 
 ### Author's tools
 1. A formatting guideline with tags to attach concept art references freely within the text.
